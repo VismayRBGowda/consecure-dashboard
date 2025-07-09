@@ -28,8 +28,8 @@ A full-stack Threat Intelligence Dashboard to:
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/threat-dashboard.git
-cd threat-dashboard
+git clone https://github.com/VismayRBGowda/consecure-dashboard
+cd consecure-dashboard
 ```
 
 ### 2. Frontend Setup (React)
